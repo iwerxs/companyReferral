@@ -6,6 +6,7 @@ The respective directories while maintaining clear organization for components, 
 
 This diagram visualises the project structure.
 
+```
 company-referral-app/
 ├── backend/
 │   ├── controllers/
@@ -41,3 +42,4 @@ company-referral-app/
 │   └── README.md
 ├── .gitignore
 └── README.md
+```
